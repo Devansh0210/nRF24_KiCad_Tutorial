@@ -2,7 +2,7 @@
 
 1. Footprint of breakout board
 <!-- ![fp](https://github.com/Devansh0210/nRF24_KiCad_Tutorial/blob/main/Screenshot%202021-08-01%20221128.png) -->
-<img src="3d_view.png" width="400" height="350"/>
+<img src="3d_view.png" width="650" height="350"/>
 
 2. 3D view of PCB
 ![3d_view](https://github.com/Devansh0210/nRF24_KiCad_Tutorial/blob/main/3d_view.png)
