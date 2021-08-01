@@ -5,4 +5,4 @@
 <img src="3d_view.png" width="600" height="350"/>
 
 2. 3D view of PCB
-![3d_view](https://github.com/Devansh0210/nRF24_KiCad_Tutorial/blob/main/3d_view.png)
+<img src="3d_view.png" width="600" height="350"/>
